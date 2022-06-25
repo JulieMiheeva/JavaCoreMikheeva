@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2797eb07-cb0a-4d5c-a078-e753915f332d" name="Changes" comment="Lesson3 - Homework - Mikheeva">
+    <list default="true" id="2797eb07-cb0a-4d5c-a078-e753915f332d" name="Changes" comment="Lesson4 - Homework - Mikheeva">
       <change afterPath="$PROJECT_DIR$/src/Example/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Example/PhoneTableClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/PhoneBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/Task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/Task2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/Task2/PhoneBook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,27 +33,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Application.Task1.Main">
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task1.Example" />
-      <module name="Java_Core_Mikheeva_Yulia" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.Lesson4.Task1.Main">
     <configuration name="Example.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example.Main" />
       <module name="Java_Core_Mikheeva_Yulia" />
@@ -80,6 +70,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lesson4.Task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson4.Task1.Main" />
+      <module name="Java_Core_Mikheeva_Yulia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson4.Task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task2.Main" />
       <module name="Java_Core_Mikheeva_Yulia" />
@@ -93,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task1.Main" />
+    <configuration name="Task1.Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task1.Example" />
       <module name="Java_Core_Mikheeva_Yulia" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task1.*" />
+          <option name="PATTERN" value="Lesson4.Task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,10 +111,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task1.Main" />
+        <item itemvalue="Application.Lesson4.Task1.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Example.Main" />
-        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.Task1.Example" />
         <item itemvalue="Application.Lesson3.Task1.Main" />
       </list>
     </recent_temporary>
@@ -146,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655576190753</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lesson4 - Homework - Mikheeva">
+      <created>1656171517910</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656171517910</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,7 +174,8 @@
     <MESSAGE value="Lesson2 - Homework - Mikheeva" />
     <MESSAGE value="Lesson1 - Homework - Mikheeva" />
     <MESSAGE value="Lesson3 - Homework - Mikheeva" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson3 - Homework - Mikheeva" />
+    <MESSAGE value="Lesson4 - Homework - Mikheeva" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson4 - Homework - Mikheeva" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -175,12 +186,12 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Task1/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/Lesson4/Task1/Main.java</url>
           <line>6</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Task2/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/Lesson4/Task2/Main.java</url>
           <line>2</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
